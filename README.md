@@ -6,6 +6,10 @@ Aplicacao web de gerenciamento de tarefas em formato de board, desenvolvida com 
 
 A proposta do projeto e oferecer um fluxo simples para acompanhar tarefas do dia a dia em uma interface visual. O usuario pode criar, editar, mover e localizar tarefas rapidamente, tanto no desktop quanto no mobile.
 
+## Demonstração
+
+🔗 [Acessar projeto online](https://gabriel-nasciment0.github.io/todo-list-site/)
+
 ## Funcionalidades principais
 
 - Criacao de tarefas com titulo, prazo e prioridade
@@ -26,7 +30,7 @@ A proposta do projeto e oferecer um fluxo simples para acompanhar tarefas do dia
 - Vite
 - JavaScript (ES Modules)
 - `@dnd-kit/core`
-- `lucide-react` 
+- `lucide-react`
 - CSS puro
 - ESLint
 
